@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AbdullahBasaad/api_eda_demo_repo/api_eda_demo/mlruns/0/910ec1d6892d4168a8311320a526e3ea/artifacts
+end_time: 1645108946118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 910ec1d6892d4168a8311320a526e3ea
+run_uuid: 910ec1d6892d4168a8311320a526e3ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645108943675
+status: 3
+tags: []
+user_id: AbdullahBasaad
