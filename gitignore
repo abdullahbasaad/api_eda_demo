@@ -1,1 +1,17 @@
+# ignore Auth0 configuration
+############################
 .config_auth0.config
+
+importing_log.log
+
+auth.py
+
+config.yaml
+
+globals.py
+
+constants
+
+
+
+
